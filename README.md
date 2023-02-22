@@ -11,5 +11,6 @@
 > . Jogo da Adivinhação;</br>
 . Aritmeticas: Soma de duas idades;</br>
 . Locação de Filme conforme a classificação de idade;</br>
-. Mostra como funciona o printf.
+. Mostra como funciona o printf;
+. Salário: Cálculo de desconto de INSS e IR.
 
