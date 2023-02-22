@@ -6,7 +6,7 @@
 
 </br>
 
-<h2>Arquivos</h2>
+<h2>Arquivos:</h2>
 
 > . Jogo da Adivinhação;</br>
 . Aritmeticas: Soma de duas idades;</br>
